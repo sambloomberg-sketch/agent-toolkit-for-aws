@@ -1,0 +1,15 @@
+{
+  "author": {
+    "name": "Big Halo"
+  },
+  "description": "Mira plugin scaffold. Replace this description with the capabilities Mira provides to your coding agent.",
+  "homepage": "https://github.com/big-halo/mira-claude-channel",
+  "keywords": [
+    "mira"
+  ],
+  "license": "Apache-2.0",
+  "name": "mira",
+  "repository": "https://github.com/big-halo/mira-claude-channel",
+  "skills": "./skills/",
+  "version": "0.1.0"
+}
