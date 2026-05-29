@@ -45,6 +45,16 @@
       "name": "aws-data-analytics",
       "source": "./plugins/aws-data-analytics",
       "version": "1.0.0"
+    },
+    {
+      "category": "development",
+      "description": "Mira plugin scaffold. Replace this description with the capabilities Mira provides to your coding agent.",
+      "keywords": [
+        "mira"
+      ],
+      "name": "mira",
+      "source": "./plugins/mira",
+      "version": "0.1.0"
     }
   ]
 }
